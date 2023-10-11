@@ -1,6 +1,30 @@
 
 ### In the name of The UNIVERSE PROGRAMER 👋
 
+
+** )
+# creat slider with js and css
+ creat slider with js and css
+
+Live Demo : 
+https://rasoulmadani.github.io/creat-slider-with-js-and-css/
+
+
+
+https://github.com/RasoulMadani/creat-slider-with-js-and-css/assets/86700824/99bc78a8-a0e6-46c0-9158-9388d4e62e3d
+
+
+** )
+# toast notification
+ toast notification
+
+Live Demo : 
+## https://rasoulmadani.github.io/toast-notification/
+
+
+https://github.com/RasoulMadani/toast-notification/assets/86700824/557e7fae-0093-4064-af32-bb9dab492932
+
+
 ** )
 # Circular Progress Bar using HTML CSS & JavaScript
  Circular Progress Bar using HTML CSS & JavaScript
